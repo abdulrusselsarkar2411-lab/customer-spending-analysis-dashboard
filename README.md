@@ -84,9 +84,10 @@ All SQL queries used in this project are available in the `analysis.sql` file.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard/dashboard.png)
 
----
+
+---<img width="1164" height="656" alt="dashboard png" src="https://github.com/user-attachments/assets/77db10d7-9531-40d4-86fc-2be399ba657d" />
+
 
 ## 🙌 Author
 Abdul Russel Sarkar
